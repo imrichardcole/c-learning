@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -std=c2x -pedantic -o strings main.c
