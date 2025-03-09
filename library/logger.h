@@ -1,3 +1,3 @@
 #pragma once
 
-void log_message(char * message);
+void log_message(char* message);
